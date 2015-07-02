@@ -1,0 +1,1 @@
+It provides an easy way for you to send large files to your friends connected to the LAN/intranet.
